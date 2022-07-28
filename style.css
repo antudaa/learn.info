@@ -1,9 +1,9 @@
 /* Adding Colors */
 .c-orange {
-    color: #f5ac0f;
+    color: orangered;
 }
 
 /* Adding Font Family  */
 body {
-    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Montserrat', sans-serif;
 }
